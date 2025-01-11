@@ -16,5 +16,8 @@
     "url": "https://github.com/AdityaPandeyCN/GMeet-webrtc/issues"
   },
   "homepage": "https://github.com/AdityaPandeyCN/GMeet-webrtc#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
